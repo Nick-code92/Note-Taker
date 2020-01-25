@@ -7,7 +7,7 @@ when user first load the page is prompt to the first page, by clicking Get
 stated then the user is taking to Note page, where they can wright the note 
 title and note text. The user than can save the note, delete the pervious nots or view the saved notes.
 
- * the app is built with
+ *  the app is built with
  * HTML
  * CSS
  * Bootstrap

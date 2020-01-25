@@ -21,3 +21,6 @@ title and note text. The user than can save the note, delete the pervious nots o
 
 [Heroku](https://afternoon-spire-95129.herokuapp.com)
 
+### Author 
+[Nikddimos Gebregiorgis](https://github.com/Nick-code92)
+

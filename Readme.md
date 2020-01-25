@@ -3,7 +3,16 @@ This is a basic notetaking app that allows the user to write new notes with a
 header and body text, as well as save and delete those notes upon completion.
 
 ## Functionality
-when you first load the page, 
+when user first load the page is prompt to the first page, by clicking Get 
+stated then the user is taking to Note page, where they can wright the note 
+title and note text. The user than can save the note or delete the pervious nots.
+
+ * the app is built with
+ * HTML
+ * CSS
+ * Bootstrap
+ * JQuery
+ * Express
 
 
 ### check it out 
